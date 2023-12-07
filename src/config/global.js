@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Comunidades virtuales para el marketing',
+    descripcionCurso:
+      'Una comunidad virtual es un espacio digital que congrega diferentes públicos con propósitos diversos, tales como el aprendizaje, los negocios, la comunicación, el entretenimiento, entre otros. Para este programa, es importante identificar las interacciones y los tipos de personas que hacen parte de estas comunidades para proponer estrategias que apoyen su fortalecimiento y su dinamización.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -31,13 +32,18 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Comunidades virtuales',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Tipos de comunidades virtuales',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Plataformas para la creación de comunidades virtuales',
+            hash: 't_1_2',
           },
         ],
       },
@@ -45,14 +51,77 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Recolección de información',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Tipos de investigación',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Técnicas de recolección de información',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Herramientas para la recolección de información',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: '<em>Insights</em> y medios digitales',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Usos del <em>insight</em>',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Variables para definir <em>insights</em>',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Herramientas digitales para insight de marketing',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Clasificación de herramientas digitales',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo:
+              'Uso de las herramientas digitales en los <em>insights</em>',
+            hash: 't_3_5',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Palabras claves (<em>keywords</em>)',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Uso de keywords en el <em>marketing</em> digital',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Herramientas de selección de <em>keywords</em>',
+            hash: 't_4_2',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -82,6 +151,11 @@ export default {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
+      },
+      {
+        icono: 'fas fa-download',
+        titulo: 'Descargar PDF',
+        download: 'downloads/CFA_003_623605.zip',
       },
       {
         icono: 'fas fa-download',
