@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Comunidades virtuales para el marketing',
+    componenteFormativo: 'Comunidades virtuales para el <em>marketing</em>',
     descripcionCurso:
       'Una comunidad virtual es un espacio digital que congrega diferentes públicos con propósitos diversos, tales como el aprendizaje, los negocios, la comunicación, el entretenimiento, entre otros. Para este programa, es importante identificar las interacciones y los tipos de personas que hacen parte de estas comunidades para proponer estrategias que apoyen su fortalecimiento y su dinamización.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -89,7 +89,8 @@ export default {
           },
           {
             numero: '3.3',
-            titulo: 'Herramientas digitales para insight de marketing',
+            titulo:
+              'Herramientas digitales para <em>insight</em> de <em>marketing</em>',
             hash: 't_3_3',
           },
           {
