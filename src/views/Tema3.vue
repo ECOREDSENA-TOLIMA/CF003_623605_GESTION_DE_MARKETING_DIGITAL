@@ -8,7 +8,7 @@
       h1 #[i Insights] y medios digitales
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-      p Un insight es un ítem, clave o elemento que lleva a la solución de un problema, es un dato que nos recomienda cómo resolver la incógnita. No es una solución, es un ítem que dirige hacia esa solución. En el área de los contenidos digitales, los insights son muy importantes porque facilitan la labor del diseñador al momento de producir una pieza gráfica, o del estratega de marketing para realizar una buena toma de decisión.  
+      p Un #[i insight] es un ítem, clave o elemento que lleva a la solución de un problema, es un dato que nos recomienda cómo resolver la incógnita. No es una solución, es un ítem que dirige hacia esa solución. En el área de los contenidos digitales, los #[i insights] son muy importantes porque facilitan la labor del diseñador al momento de producir una pieza gráfica, o del estratega de #[i marketing] para realizar una buena toma de decisión.  
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
@@ -26,57 +26,55 @@
       h2.my-5 3.1 Usos del #[i insights]
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-      p Es importante hacer una buena investigación de marca y del consumidor para identificar el #[i insight] en toda estrategia de #[i marketing] digital. Antes de difundir cualquier producto del portafolio es importante hacer una buena selección del #[i insight] que identifica el producto. Un #[i insight], en el marketing es la base para la creación sólida de marcas, productos y servicios digitales, porque permiten entender el por qué las personas hacen lo que hacen y toman ciertas decisiones. 
+      p Es importante hacer una buena investigación de marca y del consumidor para identificar el #[i insight] en toda estrategia de #[i marketing] digital. Antes de difundir cualquier producto del portafolio es importante hacer una buena selección del #[i insight] que identifica el producto. Un #[i insight], en el #[i marketing] es la base para la creación sólida de marcas, productos y servicios digitales, porque permiten entender el por qué las personas hacen lo que hacen y toman ciertas decisiones. 
 
       p El mercado actual es más competitivo y el consumidor tiene una mayor posibilidad de acceder a la información usando internet, por tanto, las marcas deben ser dinámicas, posicionarse rápidamente en la mente de los consumidores y usar el #[i insight] como herramienta de conocimiento del cliente. Los siguientes son sus usos complementarios y relevantes:
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-6.col-lg-2.mb-4.mb-lg-0
+      .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/temas/tema3/img2.svg', alt='Imagen decorativa')
 
-          p.text-small Permiten la creación de estrategias innovadoras o de productos de una forma diferente.
-          br
-          br
-      .col-sm-6.col-lg-2.mb-4.mb-lg-0
+          p.text-center Permiten la creación de estrategias innovadoras o de productos de una forma diferente.
+          
+
+      .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/temas/tema3/img3.svg', alt='Imagen decorativa')
 
-          p.text-small Identifican aquellos aspectos que pueden “tocar la fibra sensible” del cliente y así, adaptar el producto de acuerdo con sus necesidades.
-      .col-sm-6.col-lg-2.mb-4.mb-lg-0
+          p.text-center Identifican aquellos aspectos que pueden “tocar la fibra sensible” del cliente y así, adaptar el producto de acuerdo con sus necesidades.
+      .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/temas/tema3/img4.svg', alt='Imagen decorativa')
 
-          p.text-small Es un aspecto no tangible de la marca, por lo que lleva a la generación de ideas innovadoras y disruptivas con los equipos de trabajo. 
-      .col-sm-6.col-lg-2.mb-4.mb-lg-0
+          p.text-center Es un aspecto no tangible de la marca, por lo que lleva a la generación de ideas innovadoras y disruptivas con los equipos de trabajo. 
+      .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/temas/tema3/img5.svg', alt='Imagen decorativa')
 
-          p.text-small En la comunicación, le da impacto a los planes y las estrategias de #[i marketing]. 
-          br
-          br
-      .col-sm-6.col-lg-2.mb-4.mb-lg-0
+          p.text-center En la comunicación, le da impacto a los planes y las estrategias de #[i marketing]. 
+          
+      .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta--boton.crd.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/temas/tema3/img6.svg', alt='Imagen decorativa')
 
-          p.text-small.mb-0 Es fundamental para la estrategia de publicidad.
-          br
-          br
-          br
+          p.text-center.mb-3 Es fundamental para la estrategia de publicidad.
+          
+          
     Separador
     .row
       .col-xl-12
@@ -85,7 +83,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-      p No hay procesos “cerrados” o únicos en la definición de insights, pues puede ser tan variado como el tipo de producto o servicio que se quiere promover. El desarrollo propuesto en este apartado incluye los siguientes momentos:
+      p No hay procesos “cerrados” o únicos en la definición de #[i insights], pues puede ser tan variado como el tipo de producto o servicio que se quiere promover. El desarrollo propuesto en este apartado incluye los siguientes momentos:
     .bg_tarj_3
       .row.justify-content-center.mb-5
         .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -141,6 +139,7 @@
             .p-4
               h3.text-center Conectar
               p Hablar en un mismo lenguaje, conectar la vivencia personal.
+              br
       .col-lg-3(data-aos="flip-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img17.svg' alt='AvatarTop')
@@ -148,8 +147,7 @@
             .p-4
               h3.text-center Descubrir
               p El #[i insight] puede ayudar a descubrir cómo siente el consumidor.
-              br
-              br
+              
       .col-lg-3(data-aos="flip-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img18.svg' alt='AvatarTop')
@@ -195,7 +193,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-      p Para definir los #[i insights], los profesionales del #[i marketing] deben apoyarse en diferentes herramientas que permitan el análisis de las variables descritas. En ese sentido, las herramientas digitales cumplen un papel importante en todo el desarrollo de la creación de insights. 
+      p Para definir los #[i insights], los profesionales del #[i marketing] deben apoyarse en diferentes herramientas que permitan el análisis de las variables descritas. En ese sentido, las herramientas digitales cumplen un papel importante en todo el desarrollo de la creación de #[i insights]. 
       p Las herramientas digitales son los programas que pueden usarse para sintetizar la información obtenida de la investigación de mercados, analizarla y tomar decisiones adecuadas. La posibilidad de innovar con el uso de estas herramientas, resulta un factor importante.
 
       p Las funciones principales de las herramientas digitales son:
@@ -223,7 +221,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-      p Las herramientas digitales, aplicadas a diferentes medios de comunicación y de marketing, permiten superar las barreras del espacio y el tiempo, así mismo permiten que dos o más personas interactúan por medio de mensajes escritos o audiovisuales, en tiempo real o asincrónico. Además, posibilitan el intercambio de información de manera rápida y efectiva.
+      p Las herramientas digitales, aplicadas a diferentes medios de comunicación y de #[i marketing], permiten superar las barreras del espacio y el tiempo, así mismo permiten que dos o más personas interactúan por medio de mensajes escritos o audiovisuales, en tiempo real o asincrónico. Además, posibilitan el intercambio de información de manera rápida y efectiva.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10

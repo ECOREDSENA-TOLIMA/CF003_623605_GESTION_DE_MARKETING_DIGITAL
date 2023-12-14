@@ -73,7 +73,7 @@
               i.fas.fa-circle.fa-xs(style="color:#A3BFE4")
               | Vehículos usados en Colombia.
 
-          p Cada una de esas frases puede considerarse como palabra clave. Si una persona es la dueña del concesionario que vende vehículos usados, querrá que su negocio sea fácilmente encontrado por sus clientes potenciales; por tanto, deberá incluir en el contenido del sitio web las palabras o frases que comúnmente usarían las personas para encontrarlos, es aquí, donde se crea la estrategia de palabras clave.
+          p Cada una de esas frases puede considerarse como palabra clave. Si una persona es la dueña del concesionario que vende vehículos usados, querrá que su negocio sea fácilmente encontrado por sus clientes potenciales; por tanto, deberá incluir en el contenido del sitio #[i web] las palabras o frases que comúnmente usarían las personas para encontrarlos, es aquí, donde se crea la estrategia de palabras clave.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         p Entre los tipos de palabras clave hay, se tienen:
@@ -161,7 +161,7 @@
             figure
               img(src='@/assets/curso/temas/tema4/img7.jpg', alt='Imagen decorativa')                        
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5.mt-5
       .col-lg-12
       p Hay que realizar esta actividad con diferentes palabras o frases clave para seleccionar aquellas que cumplan con estos criterios:
     
@@ -174,6 +174,8 @@
             .p-4
               h3 Alto volumen de búsqueda
               p Es preferible que no se seleccionen, porque son genéricas.
+              br
+              br
       .col-lg-6
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img

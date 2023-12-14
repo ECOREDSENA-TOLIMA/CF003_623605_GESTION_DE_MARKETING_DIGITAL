@@ -66,7 +66,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/img5.svg', alt='Imagen decorativa')
               .col-lg-11            
-                p Según Pazos, Pérez y Salinas (2002), los “entornos basados en web que agrupan personas relacionadas con una temática específica que además de las listas de distribución (primer nodo de la comunidad virtual) comparten documentos y recursos”. 
+                p Según Pazos, Pérez y Salinas (2002), los “entornos basados en #[i web] que agrupan personas relacionadas con una temática específica que además de las listas de distribución (primer nodo de la comunidad virtual) comparten documentos y recursos”. 
             hr
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -122,11 +122,11 @@
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img7.svg' alt='AvatarTop')
+            img.mb-4(src='@/assets/curso/temas/tema1/img7.svg' alt='AvatarTop')
           .col-12
             h4.text-center Gubernamentales
             p.text-center Con fines de información al ciudadano o de discusión pública.
-            
+
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -173,7 +173,7 @@
             p.text-center Son agrupaciones de usuarios específicas e integradas por variables demográficas: indígenas, negritudes, hombres, mujeres, etc.
             
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5.mt-5
       .col-lg-12
       p Las orientadas hacia la organización, según los objetivos y áreas de trabajo de la empresa se define el plan de trabajo donde reside la comunidad y se pueden dividir en:
     
@@ -192,7 +192,6 @@
             .p-4
               h3.text-center Geográficas
               p De una zona geográfica cubierta por la organización.
-              br
               br
       .col-lg-4(data-aos="flip-left")
         .tarjeta-avatar
@@ -322,7 +321,7 @@
                 img(src='@/assets/curso/temas/tema1/img27.jpg', alt='Imagen decorativa')
           .row(numero="4" titulo="BuddyPress")
             .col-md-6.mb-4.mb-md-0
-              p Es un #[i plugin] gratuito de WordPress que integra componentes sociales como comentarios, botones de me gusta, compartir, colaborar, entre otros, para el sitio web corporativo. Es de uso gratuito y puede ser un complemento del sitio.
+              p Es un #[i plugin] gratuito de WordPress que integra componentes sociales como comentarios, botones de me gusta, compartir, colaborar, entre otros, para el sitio #[i web] corporativo. Es de uso gratuito y puede ser un complemento del sitio.
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema1/img28.jpg', alt='Imagen decorativa')

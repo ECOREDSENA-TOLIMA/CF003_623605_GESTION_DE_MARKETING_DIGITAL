@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
+    p El componente formativo comunidades virtuales para el #[i marketing] abarca diversos aspectos esenciales en el ámbito del #[i marketing] digital. Se explorarán la creación y gestión de comunidades virtuales, analizando tipos específicos y las plataformas más adecuadas. Se centrará en la importancia de la recolección de información, abordando tipos de investigación, técnicas de recolección y herramientas especializadas. La unidad dedicada a #[i insights] y medios digitales ofrecerá información clara para aplicar #[i insights] en estrategias de #[i marketing]. Finalmente, se destacará el papel fundamental de las palabras clave en el #[i marketing] digital, explorando su uso estratégico y las herramientas disponibles para su selección
     p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
 
     .row.justify-content-center
