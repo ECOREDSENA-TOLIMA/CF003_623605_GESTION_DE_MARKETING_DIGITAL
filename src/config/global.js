@@ -377,15 +377,19 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'María Alejandra Tovar Bernal',
+          nombre: 'Paolo Andrés Cantillo Largo',
           cargo: 'Experto Temático',
-          centro: 'Regional Tolima - Centro de Industria y la Información',
+          centro: 'Regional Antioquia - Centro de Industria y la Información  ',
         },
         {
-          nombre: 'Diego E. Acevedo Guevara',
-          cargo: 'Diseñador Instruccional',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          nombre: 'María Alejandra Tovar Bernal  ',
+          cargo: 'Experta Temática  ',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Adriana López',
+          cargo: 'Diseñadora Instruccional ',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
@@ -399,7 +403,7 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          nombre: 'José Gabriel Ortiz Abella',
           cargo: 'Corrección de Estilo',
           centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
         },
@@ -419,7 +423,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'André Felipe Herrera Roldán',
+          nombre: 'Oscar Iván Uribe Ortiz',
           cargo: 'Diseñador Web',
           centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
