@@ -30,12 +30,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-10.desktop
         figure
-          img(src='@/assets/curso/temas/tema4/img2.svg', alt='En la figura 4 se muestran las funciones principales de las herramientas digitales, como son facilitar la realización de actividades y la interacción de las personas entre otras.')
+          img(src='@/assets/curso/temas/tema4/img2.svg', alt='En la figura 5 se muestran las funciones principales de las herramientas digitales, como son facilitar la realización de actividades y la interacción de las personas entre otras.')
 
 
       .col-10.col-lg-10.movil
         figure
-          img(src='@/assets/curso/temas/tema4/img3.svg', alt='En la figura 4 se muestran las funciones principales de las herramientas digitales, como son facilitar la realización de actividades y la interacción de las personas entre otras.')          
+          img(src='@/assets/curso/temas/tema4/img3.svg', alt='En la figura 5 se muestran las funciones principales de las herramientas digitales, como son facilitar la realización de actividades y la interacción de las personas entre otras.')          
     
     .row.justify-content-center.align-items-center.mb-5        
       .col-lg-10

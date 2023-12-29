@@ -82,7 +82,7 @@
           p El conjunto de todas las cosas que se hacen para seguir la pista a los mercados y encontrar los rasgos que distinguen a las personas (cliente, consumidor, organización…) y a las cosas (productos, bienes, servicios, sectores de actividad) sus propiedades y atributos, sean estos naturales y/o adquiridos.
     
     .row.justify-content-center.align-items-center
-      .col-lg-10.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
+      .col-lg-10.col-md-10.mb-4.mb-md-0(data-aos="flip-left")
         .titulo-sexto.color-acento-contenido.offset-0
           h5 Tabla 1.
           span  #[i  Ventajas y desventajas de la investigación de mercados cualitativa]
@@ -158,7 +158,7 @@
       p Se denomina investigación de mercados cuantitativa aquella que busca obtener información acerca de la población objeto o público objetivo. Los datos obtenidos como resultado de la investigación se pueden analizar con modelos matemáticos o estadísticos, entre otras ayudas técnicas.
 
     .row.justify-content-center.align-items-center
-      .col-lg-10.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
+      .col-lg-10.col-md-10.mb-4.mb-md-0(data-aos="flip-left")
         .titulo-sexto.color-acento-contenido.offset-0
           h5 Tabla 2.
           span  #[i  Ventajas y desventajas de la investigación de mercados cuantitativa]
@@ -492,7 +492,7 @@
         p Las preguntas juegan un papel importante para el cuestionario, pues su correcta elaboración garantizará que la respuesta permita obtener la información correcta. Entre los diferentes tipos de preguntas, se tienen:
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
+      .col-lg-12.col-md-12.mb-4.mb-md-0(data-aos="flip-left")
         .titulo-sexto.color-acento-contenido.offset-0
           h5 Figura 2.
           span  #[i Tipos de preguntas ]
@@ -591,7 +591,7 @@
       .col-lg-6
         p Algunas de las alternativas que se presentan en una escala Likert, son:
     .row.justify-content-center.align-items-center
-      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
+      .col-lg-12.col-md-12.mb-4.mb-md-0(data-aos="flip-left")
         .titulo-sexto.color-acento-contenido.offset-0
           h5 Tabla 3.
           span  #[i  Alternativas de una escala Likert]
@@ -648,7 +648,7 @@
         p A cada una de las alternativas se les asigna un valor o peso representado en un número, de manera que solo se pueda marcar una sola respuesta, de lo contrario, el dato no es válido. Por ejemplo:
     
     .row.justify-content-center.align-items-center
-      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
+      .col-lg-12.col-md-12.mb-4.mb-md-0(data-aos="flip-left")
         .titulo-sexto.color-acento-contenido.offset-0
           h5 Tabla 4.
           span  #[i  Ejemplo escala Likert]

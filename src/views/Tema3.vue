@@ -167,7 +167,7 @@
       p Algunas veces los #[i consumer insight] se crean ficticiamente, porque pueden ser el resultado de una afirmación empírica o basado en el conocimiento previo del consumidor. Para que un descubrimiento pueda ser considerado #[i insight], debe cumplir con las siguientes características:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
+      .col-lg-12.col-md-12.mb-4.mb-md-0(data-aos="flip-left")
         .titulo-sexto.color-acento-contenido.offset-0
           h5 Figura 3.
           span  #[i Características insight]
@@ -199,7 +199,7 @@
       p Las funciones principales de las herramientas digitales son:
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
+      .col-lg-12.col-md-12.mb-4.mb-md-0(data-aos="flip-left")
         .titulo-sexto.color-acento-contenido.offset-0
           h5 Figura 4.
           span  #[i Funciones principales de las herramientas digitales]

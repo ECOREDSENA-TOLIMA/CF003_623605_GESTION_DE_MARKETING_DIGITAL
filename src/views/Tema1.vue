@@ -98,7 +98,7 @@
       p Hay varias clasificaciones de comunidades virtuales, entre ellas, según Polo (1998 citado por Fandos y González, 2009):
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
+      .col-lg-12.col-md-12.mb-12.mb-md-0(data-aos="flip-left")
         .titulo-sexto.color-acento-contenido.offset-0
           h5 Figura 1.
           span  #[i  Clasificaciones de comunidades virtuales]
@@ -119,7 +119,7 @@
         p Las comunidades orientadas hacia los usuarios en las cuales estos definen el tema de la comunidad y establecen las dinámicas propias para su participación así:
 
     SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="flip-right")
-      .tarjeta.colortarj-1.p-4
+      .tarjeta.colortarj-1.col-ipad.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img7.svg' alt='AvatarTop')
@@ -127,14 +127,14 @@
             h4.text-center Gubernamentales
             p.text-center Con fines de información al ciudadano o de discusión pública.
 
-      .tarjeta.colortarj-2.p-4
+      .tarjeta.colortarj-2.col-ipad.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img8.svg' alt='AvatarTop')
           .col-12
             h4.text-center Eclécticas
             p.text-center Son mixtas e integran diferentes temas como el ocio, entretenimiento, educación, información, etc.
-      .tarjeta.colortarj-1.p-4
+      .tarjeta.colortarj-1.col-ipad.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img9.svg' alt='AvatarTop')
@@ -142,14 +142,14 @@
             h4.text-center De ocio y entretenimiento
             p.text-center Incluyen juegos estratégicos, juegos en línea, entretenimiento, actividades generales, etc.
             
-      .tarjeta.colortarj-2.p-4
+      .tarjeta.colortarj-2.col-ipad.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img10.svg' alt='AvatarTop')
           .col-12
             h4.text-center Profesionales
             p.text-center Elaboradas por expertos en un tema específico o área profesional definida. Generalmente son creadas por universidades o empresas.
-      .tarjeta.colortarj-1.p-4
+      .tarjeta.colortarj-1.col-ipad.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img11.svg' alt='AvatarTop')
@@ -157,14 +157,14 @@
             h4.text-center Geográficas
             p.text-center Son grupos o comunidades que tienen un área geográfica común, sector, barrio, zona o región.
             
-      .tarjeta.colortarj-2.p-4
+      .tarjeta.colortarj-2.col-ipad.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img12.svg' alt='AvatarTop')
           .col-12
             h4.text-center Temáticas
             p.text-center Son congregadas por temas de interés específicos.
-      .tarjeta.colortarj-1.p-4
+      .tarjeta.colortarj-1.col-ipad.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img13.svg' alt='AvatarTop')

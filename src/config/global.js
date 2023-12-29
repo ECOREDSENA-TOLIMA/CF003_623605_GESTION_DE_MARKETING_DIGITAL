@@ -439,17 +439,17 @@ export default {
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animador y Producción Audiovisual',
           centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animador y Producción Audiovisual',
           centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
         {
           nombre: 'Oleg Litvin',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animador y Producción Audiovisual',
           centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
         {
@@ -464,12 +464,12 @@ export default {
       autores: [
         {
           nombre: 'Javier Mauricio Oviedo',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          cargo: 'Validación y Vinculación en Plataforma LMS',
           centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Naranjo Farfán',
-          cargo: 'Validación de contenidos accesibles',
+          cargo: 'Validación de Contenidos Accesibles',
           centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
       ],
