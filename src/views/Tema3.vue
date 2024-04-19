@@ -372,7 +372,7 @@
       .col-lg-12
       p Entre las principales herramientas para obtener #[i insights] se encuentran la analítica, la escucha digital, el monitoreo de la experiencia, la minería de datos y la investigación de mercados, cada una con sus características específicas que se describen a continuación:
     
-    SlyderB.slyder-b-img.mb-5.p-5(:datos="datosLineaTiempoB")
+    SlyderB.slyder-b-img.mb-5.p-lg-5.p-4(:datos="datosLineaTiempoB")
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12

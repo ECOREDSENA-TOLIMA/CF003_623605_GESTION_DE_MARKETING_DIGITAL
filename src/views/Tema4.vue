@@ -25,7 +25,7 @@
       .col-lg-10.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
         .titulo-sexto.color-acento-contenido.offset-0
           h5 Figura 5.
-          span  #[i ]
+          span  #[i Ventajas de palabras clave]
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-10.desktop
