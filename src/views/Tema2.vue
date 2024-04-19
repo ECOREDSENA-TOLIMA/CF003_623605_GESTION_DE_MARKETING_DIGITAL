@@ -206,7 +206,6 @@
                     li.mb-0
                       i.fas.fa-circle.fa-xs(style="color:#A3BFE4")
                       | Debe estudiarse una amplia porción de la población.
-
               tr
                 td
                   ul.lista-ul.mb-0
@@ -338,18 +337,18 @@
                   ul.lista-ul.mb-0
                     li.mb-0
                       i.fas.fa-circle.fa-xs(style="color:#A3BFE4")
-                      | #[b Pregunta abierta]
+                      p.mb-0 #[b Pregunta abierta]
                   p ¿Cómo le pareció el diseño del producto?
                   ul.lista-ul.mb-0
                     li.mb-0
                       i.fas.fa-circle.fa-xs(style="color:#A3BFE4")
-                      | #[b Pregunta dicotómica]
+                      p.mb-0 #[b Pregunta dicotómica]
                   p ¿Cómo le pareció el producto? 
                   p a. Bueno o b. Malo
                   ul.lista-ul.mb-0
                     li.mb-0
                       i.fas.fa-circle.fa-xs(style="color:#A3BFE4")
-                      | #[b Pregunta de opción múltiple]
+                      p.mb-0 #[b Pregunta de opción múltiple]
                   p ¿Cómo le pareció el producto?
                   ol.lista-ol
                     li

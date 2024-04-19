@@ -195,6 +195,13 @@ export default {
         'https://www.researchgate.net/publication/363757487_Reconocimiento_del_valor_Storytelling_y_la_Co-creacion_en_la_construccion_de_microsegmentos_a_traves_de_la_Estrategia_de_Marketing_Digital ',
     },
     {
+      tema: '3. <em>Insights</em> y medios digitales',
+      referencia:
+        'Program S. A. (2019). Branding en la era digital | PragmaTalk. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/vjf-XE6S0eU?si=UXrjm4M5cV8F6ZZ9',
+    },
+    {
       tema: '4. Palabras claves (<em>keywords</em>)',
       referencia:
         '<em>Rock Content</em>. (2021). <em>¿Qué es una keyword y cómo influye en el SEO?</em> ',
